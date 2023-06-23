@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "385824372941",
+    "firebase_url": "https://b2c-ximply-test-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "b2c-ximply-test",
+    "storage_bucket": "b2c-ximply-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385824372941:android:66bc68ef1a6c750b549184",
+        "android_client_info": {
+          "package_name": "com.example.ximply_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385824372941-96932nlcrldgp24126h1vi4hbra0v8cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVV53z43qmZDLqR1DpdtVHzFokm0mEzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385824372941-96932nlcrldgp24126h1vi4hbra0v8cm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385824372941-u6dvb1223qt8qpbglf7dc0gufl6i1u85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ximplyApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385824372941:android:1c56bcfd0a609ace549184",
+        "android_client_info": {
+          "package_name": "io.flutter.plugins.firebase.messaging.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385824372941-96932nlcrldgp24126h1vi4hbra0v8cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVV53z43qmZDLqR1DpdtVHzFokm0mEzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385824372941-96932nlcrldgp24126h1vi4hbra0v8cm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385824372941-u6dvb1223qt8qpbglf7dc0gufl6i1u85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ximplyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
